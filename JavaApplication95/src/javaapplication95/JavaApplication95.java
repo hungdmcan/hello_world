@@ -11,6 +11,7 @@ public class JavaApplication95
     */
    public static void main (String[] args)
    {
-      int i = 0;
+      int i = 1000;
+      System.out.print(i);
    }
 }
